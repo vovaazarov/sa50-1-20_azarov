@@ -1,0 +1,12 @@
+#cube{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;   
+}
+#cube:active{
+    background-color: aqua;
+}
+body {
+    background-color: rgb(0, 0, 0);
+  }
